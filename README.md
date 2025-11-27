@@ -27,7 +27,6 @@
 
 **Database💻**
 
-![MySQL](https://cdn-icons-png.flaticon.com/512/5968/5968313.png)
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="80"/>
 
 
