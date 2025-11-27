@@ -10,11 +10,35 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###Known skills🛠️
+<h2>Known skills🛠️</h2>
 
-**Languages**
+**Languages🖥️**
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+
+
+**Tools📌**
+
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+**Database💻**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>🌱About Me</h2>
+
+📈Always curious to learn and explore new technologies
+💬Believe in consistent learning and self-improvement
+✨Love creating and experimenting with new ideas
+🌍Aiming to grow and make a positive impact through technology
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👩🏻‍💻🏆"Keep learning,Keep building,and Keep believing in yourself!".
