@@ -27,9 +27,7 @@
 
 **Database💻**
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3d4fc1b1-7a94-4eca-8d3b-14b2d7459c28" />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
